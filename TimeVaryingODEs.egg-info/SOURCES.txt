@@ -1,0 +1,7 @@
+setup.py
+TimeVaryingODEs/__init__.py
+TimeVaryingODEs/growing_network.py
+TimeVaryingODEs.egg-info/PKG-INFO
+TimeVaryingODEs.egg-info/SOURCES.txt
+TimeVaryingODEs.egg-info/dependency_links.txt
+TimeVaryingODEs.egg-info/top_level.txt

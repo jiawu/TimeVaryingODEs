@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: TimeVaryingODEs
+Version: 0.0.0
+Summary: Generation of time-varying odes
+Home-page: http://github.com/jiawu/TimeVaryingODEs/
+Author: Justin Finkle & Aaron Oppenheimer & Jia Wu
+Author-email: jfinkle@u.northwestern.edu.com
+License: Apache Software License
+Description: TimeVaryingODEs
+        ===============
+        
+Platform: any
