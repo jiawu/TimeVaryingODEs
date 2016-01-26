@@ -14,8 +14,7 @@ import os
 import pdb
 
 time = np.linspace(0,100,2000.)
-#Parameter generation for stimulation to specific nodes. It's all random,
-#so you can fuck with it however you so choose. Just be careful, external
+#Parameter generation for stimulation to specific nodes. Just be careful, external
 #perturbations should be kept pretty small to maintain convergence.
 pulses = [(rd.choice([0.2,0.25,0.3]),rd.choice([0.35,0.4,0.45]),rd.choice([0.05,0.1,0.15])/20.) if rd.random() > 0.8 else 0 for i in range(50)]
 pdb.set_trace()
